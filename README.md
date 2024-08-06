@@ -1,28 +1,32 @@
-Nombre del proyecto
+#Nombre del proyecto
+
 Generación Automática de Descripciones y Visualizaciones de Casas Modernas utilizando IA
 
-Presentación del problema a abordar
+##Presentación del problema a abordar:
+
 Problema:
 El diseño arquitectónico de casas modernas es una tarea compleja que requiere una comunicación efectiva entre arquitectos y clientes. Los clientes a menudo tienen dificultades para visualizar cómo se verán los diseños abstractos en la realidad, lo que puede llevar a malentendidos y revisiones costosas del proyecto.
 
 Relevancia:
 La falta de una visualización clara y detallada de los diseños arquitectónicos puede resultar en:
 
-Incertidumbre del cliente: Los clientes pueden sentirse inseguros o insatisfechos con los diseños propuestos si no pueden visualizarlos claramente.
+##Incertidumbre del cliente: Los clientes pueden sentirse inseguros o insatisfechos con los diseños propuestos si no pueden visualizarlos claramente.
 Revisiones y ajustes costosos: La falta de comprensión clara puede llevar a múltiples revisiones del diseño, aumentando el tiempo y los costos del proyecto.
 Ineficiencia en el proceso de diseño: Los arquitectos deben gastar tiempo adicional explicando y revisando los diseños, en lugar de centrarse en la creación innovadora.
 Desarrollo de la propuesta de solución
-Solución:
+##Solución:
 Desarrollar un sistema automatizado que genere descripciones textuales detalladas y visualizaciones de casas modernas basadas en los requisitos del cliente, utilizando la API de OpenAI para GPT-4 y NightCafe para la generación de imágenes.
 
-Vinculación con IA:
-Análisis de Requisitos: Utilizar GPT-4 para analizar los datos del cliente y generar descripciones textuales detalladas del diseño arquitectónico.
-Generación de Descripciones: Crear descripciones que incluyan detalles sobre la distribución, materiales, estilo y características específicas de la casa moderna.
-Generación de Imágenes: Utilizar NightCafe para convertir las descripciones textuales en imágenes arquitectónicas detalladas y visualmente atractivas.
-Prompts:
-Prompt General: Crear una descripción detallada del diseño de una casa moderna basada en los requisitos del cliente.
-Prompt Específico: Descripción detallada del diseño de una casa moderna de 200 metros cuadrados con estilo minimalista.
-Justificación de la viabilidad del proyecto
+*Vinculación con IA:
+##Análisis de Requisitos: Utilizar GPT-4 para analizar los datos del cliente y generar descripciones textuales detalladas del diseño arquitectónico.
+##Generación de Descripciones: Crear descripciones que incluyan detalles sobre la distribución, materiales, estilo y características específicas de la casa moderna.
+##Generación de Imágenes: Utilizar NightCafe para convertir las descripciones textuales en imágenes arquitectónicas detalladas y visualmente atractivas.
+
+#Prompts:
+##Prompt General: Crear una descripción detallada del diseño de una casa moderna basada en los requisitos del cliente.
+#Prompt Específico: Descripción detallada del diseño de una casa moderna de 200 metros cuadrados con estilo minimalista.
+
+#Justificación de la viabilidad del proyecto
 Viabilidad Técnica:
 Tiempo: El proyecto puede ser desarrollado en un tiempo razonable gracias a la disponibilidad de herramientas como GPT-4 y NightCafe, que permiten la generación rápida de texto e imágenes.
 Recursos: Utilizar APIs de OpenAI y NightCafe, que son accesibles y fáciles de integrar en un flujo de trabajo de desarrollo.
